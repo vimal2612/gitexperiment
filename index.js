@@ -7,4 +7,5 @@ delete m.firstName;
 
 console.log(m);
 console.log(2);
+console.log(3);
 
