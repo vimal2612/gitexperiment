@@ -6,4 +6,5 @@ const m = {
 delete m.firstName;
 
 console.log(m);
+console.log("feature added");
 
